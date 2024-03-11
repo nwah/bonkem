@@ -13,6 +13,8 @@ If the game does not automatically start, it can be started directly from BASIC 
 RUN"D:BONKEM.BAS"
 ```
 
+**NOTE**: There are two versions of the disk image. The main one is tuned for Altirra BASIC's GOTO speed, while the `-hardware.atr` version is tuned for stock Atari BASIC on a real Atari.
+
 ## How to play
 - Press `RETURN` to begin
 - When the mole pops up, hit the corresponding key on your keyboard to bonk 'em
