@@ -1,6 +1,8 @@
 # BONK'EM - BASIC 10Liner Contest 2024
 This game is my entry for the 13th Edition of the BASIC 10Liner Contest. It is intended for the "PUR-120" category, written in stock Atari BASIC.
 
+![Gameplay](docs/bonkem.gif)
+
 ## How to run the game
 The .atr disk image should be loaded into D1, and contains an AUTORUN.SYS to launch the BASIC program automatically. Any emulator, such as Altirra, Atari800, etc. should be fine as long as it has BASIC enabled.
 
